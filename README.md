@@ -1,7 +1,7 @@
 
 ## MorphoDepot Repository
 Repository for segmentation of a specimen scan.  See [this JSON file](MorphoDepotAccession.json) for specimen details.
-* Species: Peratherium spec
+* Species: Herpetotherium fugax
 * Modality: Micro CT (or synchrotron)
 * Contrast: No
 * Dimensions: (1166, 1990, 865)
